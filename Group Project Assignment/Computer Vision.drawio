@@ -1,78 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T11:30:28.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="al0lQBzVdYI2Mqxpgzsr" version="22.1.3" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-21T12:08:19.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kuske4zB8mzfnFb8Ndxi" version="22.1.3" type="device">
   <diagram name="Page-1" id="tN84kx2z7IiGgxvLzlwo">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Eck1QltXF6lyeZD71w6y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Eck1QltXF6lyeZD71w6y-1" target="Eck1QltXF6lyeZD71w6y-3">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Eck1QltXF6lyeZD71w6y-1" target="Eck1QltXF6lyeZD71w6y-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eck1QltXF6lyeZD71w6y-3" target="Eck1QltXF6lyeZD71w6y-4">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Eck1QltXF6lyeZD71w6y-3" target="Eck1QltXF6lyeZD71w6y-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eck1QltXF6lyeZD71w6y-4" target="Eck1QltXF6lyeZD71w6y-5">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Eck1QltXF6lyeZD71w6y-4" target="Eck1QltXF6lyeZD71w6y-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eck1QltXF6lyeZD71w6y-5" target="Eck1QltXF6lyeZD71w6y-10">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Eck1QltXF6lyeZD71w6y-5" target="Eck1QltXF6lyeZD71w6y-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Eck1QltXF6lyeZD71w6y-10" target="Eck1QltXF6lyeZD71w6y-11">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Eck1QltXF6lyeZD71w6y-10" target="Eck1QltXF6lyeZD71w6y-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-21" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="340" y="150" width="142" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-1" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Dataset&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-21">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-1" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Dataset&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="Eck1QltXF6lyeZD71w6y-21" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/6802/6802146.png;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-21">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/6802/6802146.png;" parent="Eck1QltXF6lyeZD71w6y-21" vertex="1">
           <mxGeometry x="100" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-22" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-22" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="500" y="150" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-3" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Pizza Classification&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-22">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-3" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Pizza Classification&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="Eck1QltXF6lyeZD71w6y-22" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3595/3595455.png;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-22">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3595/3595455.png;" parent="Eck1QltXF6lyeZD71w6y-22" vertex="1">
           <mxGeometry x="100" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1130" y="150" width="140" height="80" as="geometry" />
+        <mxCell id="Eck1QltXF6lyeZD71w6y-23" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1140" y="150" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-11" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Pizza Analysis&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-23">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-11" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Pizza Analysis&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="Eck1QltXF6lyeZD71w6y-23" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2316/2316934.png;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-23">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2316/2316934.png;" parent="Eck1QltXF6lyeZD71w6y-23" vertex="1">
           <mxGeometry x="100" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-25" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-25" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="980" y="150" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-10" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Model Evaluation&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-25">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-10" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Model Evaluation&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="Eck1QltXF6lyeZD71w6y-25" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1162/1162914.png;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-25">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1162/1162914.png;" parent="Eck1QltXF6lyeZD71w6y-25" vertex="1">
           <mxGeometry x="100" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-26" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-26" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="820" y="150" width="132" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-5" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Training Object Detector&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-26">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-5" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Training Object Detector&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="Eck1QltXF6lyeZD71w6y-26" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/12122/12122385.png;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-26">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/12122/12122385.png;" parent="Eck1QltXF6lyeZD71w6y-26" vertex="1">
           <mxGeometry x="90" y="38" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-27" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="660" y="150" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-4" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Annotated Dataset&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-27">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-4" value="&lt;h4&gt;&lt;font face=&quot;Verdana&quot;&gt;Annotated Dataset&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="Eck1QltXF6lyeZD71w6y-27" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eck1QltXF6lyeZD71w6y-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/10328/10328933.png;" vertex="1" parent="Eck1QltXF6lyeZD71w6y-27">
+        <mxCell id="Eck1QltXF6lyeZD71w6y-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/10328/10328933.png;" parent="Eck1QltXF6lyeZD71w6y-27" vertex="1">
           <mxGeometry x="90" y="40" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
