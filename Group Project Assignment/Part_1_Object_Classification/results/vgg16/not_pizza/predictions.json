@@ -1,0 +1,442 @@
+{
+    "not_pizza\\1005746.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.99994636"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "1.1503763e-05"
+        },
+        "n02776631": {
+            "prediction": "bakery",
+            "confidence": "6.451149e-06"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "5.8460637e-06"
+        },
+        "n04270147": {
+            "prediction": "spatula",
+            "confidence": "5.209255e-06"
+        }
+    },
+    "not_pizza\\1009225.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.9291934"
+        },
+        "n07693725": {
+            "prediction": "bagel",
+            "confidence": "0.015291826"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.0059393267"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.005593637"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "0.004487564"
+        }
+    },
+    "not_pizza\\1012312.jpg": {
+        "n07693725": {
+            "prediction": "bagel",
+            "confidence": "0.25314876"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "0.22963122"
+        },
+        "n07831146": {
+            "prediction": "carbonara",
+            "confidence": "0.14907119"
+        },
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.08431909"
+        },
+        "n07697313": {
+            "prediction": "cheeseburger",
+            "confidence": "0.052288994"
+        }
+    },
+    "not_pizza\\1018802.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.88832206"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.044634994"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.018317206"
+        },
+        "n07717410": {
+            "prediction": "acorn_squash",
+            "confidence": "0.0039377646"
+        },
+        "n02776631": {
+            "prediction": "bakery",
+            "confidence": "0.003100331"
+        }
+    },
+    "not_pizza\\1020735.jpg": {
+        "n07880968": {
+            "prediction": "burrito",
+            "confidence": "0.8288654"
+        },
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.047077384"
+        },
+        "n07583066": {
+            "prediction": "guacamole",
+            "confidence": "0.029592475"
+        },
+        "n07697537": {
+            "prediction": "hotdog",
+            "confidence": "0.027931634"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.015602856"
+        }
+    },
+    "not_pizza\\1027142.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.9908824"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.0026876405"
+        },
+        "n07871810": {
+            "prediction": "meat_loaf",
+            "confidence": "0.0014559214"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.0008328503"
+        },
+        "n07716906": {
+            "prediction": "spaghetti_squash",
+            "confidence": "0.0006145775"
+        }
+    },
+    "not_pizza\\102839.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.36926615"
+        },
+        "n07697537": {
+            "prediction": "hotdog",
+            "confidence": "0.22363168"
+        },
+        "n07697313": {
+            "prediction": "cheeseburger",
+            "confidence": "0.049304362"
+        },
+        "n02776631": {
+            "prediction": "bakery",
+            "confidence": "0.03817227"
+        },
+        "n04476259": {
+            "prediction": "tray",
+            "confidence": "0.03122395"
+        }
+    },
+    "not_pizza\\1043233.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.9984818"
+        },
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.0002680618"
+        },
+        "n07768694": {
+            "prediction": "pomegranate",
+            "confidence": "0.00019539462"
+        },
+        "n07693725": {
+            "prediction": "bagel",
+            "confidence": "0.00018164248"
+        },
+        "n02776631": {
+            "prediction": "bakery",
+            "confidence": "0.00011602313"
+        }
+    },
+    "not_pizza\\1045400.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.9985417"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "0.00033067487"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.00027579453"
+        },
+        "n07693725": {
+            "prediction": "bagel",
+            "confidence": "0.00011589273"
+        },
+        "n07871810": {
+            "prediction": "meat_loaf",
+            "confidence": "0.00010804782"
+        }
+    },
+    "not_pizza\\104773.jpg": {
+        "n07768694": {
+            "prediction": "pomegranate",
+            "confidence": "0.36893806"
+        },
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.24065481"
+        },
+        "n07613480": {
+            "prediction": "trifle",
+            "confidence": "0.10508719"
+        },
+        "n07614500": {
+            "prediction": "ice_cream",
+            "confidence": "0.05269813"
+        },
+        "n02776631": {
+            "prediction": "bakery",
+            "confidence": "0.037172582"
+        }
+    },
+    "not_pizza\\1050956.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.9989975"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.00026776321"
+        },
+        "n07613480": {
+            "prediction": "trifle",
+            "confidence": "0.00012801618"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "7.786383e-05"
+        },
+        "n07697313": {
+            "prediction": "cheeseburger",
+            "confidence": "6.097228e-05"
+        }
+    },
+    "not_pizza\\1054362.jpg": {
+        "n07880968": {
+            "prediction": "burrito",
+            "confidence": "0.40945753"
+        },
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.32186294"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.03187142"
+        },
+        "n01981276": {
+            "prediction": "king_crab",
+            "confidence": "0.03168906"
+        },
+        "n07583066": {
+            "prediction": "guacamole",
+            "confidence": "0.023211377"
+        }
+    },
+    "not_pizza\\1062097.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.8289185"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.02432568"
+        },
+        "n07693725": {
+            "prediction": "bagel",
+            "confidence": "0.02167749"
+        },
+        "n07711569": {
+            "prediction": "mashed_potato",
+            "confidence": "0.01692825"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.013775544"
+        }
+    },
+    "not_pizza\\1066151.jpg": {
+        "n07871810": {
+            "prediction": "meat_loaf",
+            "confidence": "0.2538924"
+        },
+        "n07613480": {
+            "prediction": "trifle",
+            "confidence": "0.25088257"
+        },
+        "n07836838": {
+            "prediction": "chocolate_sauce",
+            "confidence": "0.20543644"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.07632071"
+        },
+        "n07614500": {
+            "prediction": "ice_cream",
+            "confidence": "0.06231628"
+        }
+    },
+    "not_pizza\\1070772.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.8374969"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.050662808"
+        },
+        "n04270147": {
+            "prediction": "spatula",
+            "confidence": "0.024635386"
+        },
+        "n07871810": {
+            "prediction": "meat_loaf",
+            "confidence": "0.01895183"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.009356756"
+        }
+    },
+    "not_pizza\\1070867.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.9760199"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "0.010062159"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.004429953"
+        },
+        "n07880968": {
+            "prediction": "burrito",
+            "confidence": "0.0037117426"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.0016997763"
+        }
+    },
+    "not_pizza\\107499.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.8907456"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.043668017"
+        },
+        "n04111531": {
+            "prediction": "rotisserie",
+            "confidence": "0.028330682"
+        },
+        "n03259280": {
+            "prediction": "Dutch_oven",
+            "confidence": "0.01096814"
+        },
+        "n04270147": {
+            "prediction": "spatula",
+            "confidence": "0.00986431"
+        }
+    },
+    "not_pizza\\108055.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.87853545"
+        },
+        "n04270147": {
+            "prediction": "spatula",
+            "confidence": "0.030258453"
+        },
+        "n07880968": {
+            "prediction": "burrito",
+            "confidence": "0.027690768"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.010108439"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.0076054577"
+        }
+    },
+    "not_pizza\\1081875.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.62100244"
+        },
+        "n07880968": {
+            "prediction": "burrito",
+            "confidence": "0.04975385"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.033706132"
+        },
+        "n07871810": {
+            "prediction": "meat_loaf",
+            "confidence": "0.033435155"
+        },
+        "n07697537": {
+            "prediction": "hotdog",
+            "confidence": "0.019486917"
+        }
+    },
+    "not_pizza\\1083749.jpg": {
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.9995888"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "7.755201e-05"
+        },
+        "n04270147": {
+            "prediction": "spatula",
+            "confidence": "5.349397e-05"
+        },
+        "n07716358": {
+            "prediction": "zucchini",
+            "confidence": "4.9182217e-05"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "4.3152424e-05"
+        }
+    }
+}

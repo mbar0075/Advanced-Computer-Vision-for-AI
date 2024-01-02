@@ -1,0 +1,442 @@
+{
+    "not_pizza\\1005746.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "1.0538759e-23"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "9.966662e-34"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "1.7626234e-37"
+        },
+        "n02321529": {
+            "prediction": "sea_cucumber",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1009225.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "4.5798334e-17"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "2.2321156e-19"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "2.1728937e-27"
+        },
+        "n03995372": {
+            "prediction": "power_drill",
+            "confidence": "3.8601745e-29"
+        }
+    },
+    "not_pizza\\1012312.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02319095": {
+            "prediction": "sea_urchin",
+            "confidence": "0.0"
+        },
+        "n02391049": {
+            "prediction": "zebra",
+            "confidence": "0.0"
+        },
+        "n02389026": {
+            "prediction": "sorrel",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1018802.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "2.6040042e-15"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "7.342067e-18"
+        },
+        "n03995372": {
+            "prediction": "power_drill",
+            "confidence": "2.907784e-21"
+        },
+        "n03868863": {
+            "prediction": "oxygen_mask",
+            "confidence": "5.606985e-32"
+        }
+    },
+    "not_pizza\\1020735.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "1.167729e-28"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "9.818368e-32"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02342885": {
+            "prediction": "hamster",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1027142.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "2.0220513e-31"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02317335": {
+            "prediction": "starfish",
+            "confidence": "0.0"
+        },
+        "n02389026": {
+            "prediction": "sorrel",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\102839.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "1.2660836e-36"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02317335": {
+            "prediction": "starfish",
+            "confidence": "0.0"
+        },
+        "n02389026": {
+            "prediction": "sorrel",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1043233.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "1.3058811e-19"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "1.4379493e-27"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "6.050603e-33"
+        },
+        "n02321529": {
+            "prediction": "sea_cucumber",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1045400.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "4.797768e-20"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "1.3274933e-27"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "1.4472671e-33"
+        },
+        "n03995372": {
+            "prediction": "power_drill",
+            "confidence": "7.6246995e-34"
+        }
+    },
+    "not_pizza\\104773.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "6.02683e-33"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02317335": {
+            "prediction": "starfish",
+            "confidence": "0.0"
+        },
+        "n02389026": {
+            "prediction": "sorrel",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1050956.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "1.2847545e-24"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "1.0388353e-32"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "1.420367e-35"
+        },
+        "n02321529": {
+            "prediction": "sea_cucumber",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1054362.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "2.0328456e-26"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "2.0193647e-35"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "1.5362568e-36"
+        },
+        "n02321529": {
+            "prediction": "sea_cucumber",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1062097.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "3.0469797e-23"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "8.227765e-28"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "1.2937986e-32"
+        },
+        "n02321529": {
+            "prediction": "sea_cucumber",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1066151.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "6.1039203e-19"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "1.8402256e-26"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "1.1181075e-29"
+        },
+        "n03995372": {
+            "prediction": "power_drill",
+            "confidence": "5.8822294e-35"
+        }
+    },
+    "not_pizza\\1070772.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "6.2507893e-20"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "2.3508364e-29"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "5.0532915e-32"
+        },
+        "n03995372": {
+            "prediction": "power_drill",
+            "confidence": "5.9178995e-36"
+        }
+    },
+    "not_pizza\\1070867.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "5.0817175e-21"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "5.018257e-23"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "3.9909167e-24"
+        },
+        "n02321529": {
+            "prediction": "sea_cucumber",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\107499.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "3.975827e-32"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02317335": {
+            "prediction": "starfish",
+            "confidence": "0.0"
+        },
+        "n02389026": {
+            "prediction": "sorrel",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\108055.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "1.2852591e-32"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02317335": {
+            "prediction": "starfish",
+            "confidence": "0.0"
+        },
+        "n02389026": {
+            "prediction": "sorrel",
+            "confidence": "0.0"
+        }
+    },
+    "not_pizza\\1081875.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "5.1103874e-15"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "6.348837e-20"
+        },
+        "n03794056": {
+            "prediction": "mousetrap",
+            "confidence": "7.57155e-32"
+        },
+        "n03995372": {
+            "prediction": "power_drill",
+            "confidence": "3.3568135e-35"
+        }
+    },
+    "not_pizza\\1083749.jpg": {
+        "n06596364": {
+            "prediction": "comic_book",
+            "confidence": "1.0"
+        },
+        "n02791124": {
+            "prediction": "barber_chair",
+            "confidence": "1.0257759e-27"
+        },
+        "n04517823": {
+            "prediction": "vacuum",
+            "confidence": "5.1565943e-33"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.0"
+        },
+        "n02342885": {
+            "prediction": "hamster",
+            "confidence": "0.0"
+        }
+    }
+}

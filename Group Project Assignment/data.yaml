@@ -1,0 +1,27 @@
+names:
+- Arugula
+- Bacon
+- Basil
+- Broccoli
+- Cheese
+- Chicken
+- Corn
+- Ham
+- Mushroom
+- Olives
+- Onion
+- Pepperoni
+- Peppers
+- Pineapple
+- Pizza
+- Tomatoes
+nc: 16
+roboflow:
+  license: CC BY 4.0
+  project: pizza-object-detector
+  url: https://universe.roboflow.com/advanced-computer-vision-assignment/pizza-object-detector/dataset/7
+  version: 7
+  workspace: advanced-computer-vision-assignment
+test: ../test/images
+train: Pizza-Object-Detector-7/train/images
+val: Pizza-Object-Detector-7/valid/images

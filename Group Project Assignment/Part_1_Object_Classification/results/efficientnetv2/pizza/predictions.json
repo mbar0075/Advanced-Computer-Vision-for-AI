@@ -1,0 +1,442 @@
+{
+    "pizza\\1001116.jpg": {
+        "n01496331": {
+            "prediction": "electric_ray",
+            "confidence": "0.40512678"
+        },
+        "n04209133": {
+            "prediction": "shower_cap",
+            "confidence": "0.19029905"
+        },
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.057381734"
+        },
+        "n03775071": {
+            "prediction": "mitten",
+            "confidence": "0.020587029"
+        },
+        "n02869837": {
+            "prediction": "bonnet",
+            "confidence": "0.01998999"
+        }
+    },
+    "pizza\\1008104.jpg": {
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.49915838"
+        },
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.22457382"
+        },
+        "n04542943": {
+            "prediction": "waffle_iron",
+            "confidence": "0.048930723"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.02665085"
+        },
+        "n07613480": {
+            "prediction": "trifle",
+            "confidence": "0.020376053"
+        }
+    },
+    "pizza\\1008144.jpg": {
+        "n07860988": {
+            "prediction": "dough",
+            "confidence": "0.45411813"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.043943502"
+        },
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.018564789"
+        },
+        "n07684084": {
+            "prediction": "French_loaf",
+            "confidence": "0.014236123"
+        },
+        "n01665541": {
+            "prediction": "leatherback_turtle",
+            "confidence": "0.009946653"
+        }
+    },
+    "pizza\\1008844.jpg": {
+        "n03920288": {
+            "prediction": "Petri_dish",
+            "confidence": "0.32180464"
+        },
+        "n07932039": {
+            "prediction": "eggnog",
+            "confidence": "0.1839126"
+        },
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.09767515"
+        },
+        "n04258138": {
+            "prediction": "solar_dish",
+            "confidence": "0.028860856"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.020300195"
+        }
+    },
+    "pizza\\1008941.jpg": {
+        "n03929660": {
+            "prediction": "pick",
+            "confidence": "0.45666206"
+        },
+        "n03476684": {
+            "prediction": "hair_slide",
+            "confidence": "0.19191577"
+        },
+        "n02865351": {
+            "prediction": "bolo_tie",
+            "confidence": "0.047833543"
+        },
+        "n04355933": {
+            "prediction": "sunglass",
+            "confidence": "0.036967993"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.015487778"
+        }
+    },
+    "pizza\\1011404.jpg": {
+        "n03314780": {
+            "prediction": "face_powder",
+            "confidence": "0.6107713"
+        },
+        "n03920288": {
+            "prediction": "Petri_dish",
+            "confidence": "0.054606177"
+        },
+        "n04286575": {
+            "prediction": "spotlight",
+            "confidence": "0.031502765"
+        },
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.021170076"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.019312281"
+        }
+    },
+    "pizza\\102037.jpg": {
+        "n03920288": {
+            "prediction": "Petri_dish",
+            "confidence": "0.26181895"
+        },
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.07832058"
+        },
+        "n02808440": {
+            "prediction": "bathtub",
+            "confidence": "0.04316311"
+        },
+        "n04493381": {
+            "prediction": "tub",
+            "confidence": "0.03930347"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.03867124"
+        }
+    },
+    "pizza\\1026922.jpg": {
+        "n03447721": {
+            "prediction": "gong",
+            "confidence": "0.5411837"
+        },
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.15522927"
+        },
+        "n04209133": {
+            "prediction": "shower_cap",
+            "confidence": "0.04467321"
+        },
+        "n04258138": {
+            "prediction": "solar_dish",
+            "confidence": "0.025445228"
+        },
+        "n04553703": {
+            "prediction": "washbasin",
+            "confidence": "0.010552605"
+        }
+    },
+    "pizza\\1029698.jpg": {
+        "n01753488": {
+            "prediction": "horned_viper",
+            "confidence": "0.7159814"
+        },
+        "n01756291": {
+            "prediction": "sidewinder",
+            "confidence": "0.035736747"
+        },
+        "n01742172": {
+            "prediction": "boa_constrictor",
+            "confidence": "0.02945383"
+        },
+        "n01644900": {
+            "prediction": "tailed_frog",
+            "confidence": "0.016576417"
+        },
+        "n07693725": {
+            "prediction": "bagel",
+            "confidence": "0.011974891"
+        }
+    },
+    "pizza\\1032754.jpg": {
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.06965988"
+        },
+        "n02869837": {
+            "prediction": "bonnet",
+            "confidence": "0.058332264"
+        },
+        "n04209133": {
+            "prediction": "shower_cap",
+            "confidence": "0.05515527"
+        },
+        "n01496331": {
+            "prediction": "electric_ray",
+            "confidence": "0.04461003"
+        },
+        "n07860988": {
+            "prediction": "dough",
+            "confidence": "0.03310552"
+        }
+    },
+    "pizza\\1033251.jpg": {
+        "n01496331": {
+            "prediction": "electric_ray",
+            "confidence": "0.33493656"
+        },
+        "n01665541": {
+            "prediction": "leatherback_turtle",
+            "confidence": "0.1957825"
+        },
+        "n01667778": {
+            "prediction": "terrapin",
+            "confidence": "0.013203709"
+        },
+        "n01498041": {
+            "prediction": "stingray",
+            "confidence": "0.013015393"
+        },
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.011031213"
+        }
+    },
+    "pizza\\1035854.jpg": {
+        "n04325704": {
+            "prediction": "stole",
+            "confidence": "0.4504339"
+        },
+        "n03207743": {
+            "prediction": "dishrag",
+            "confidence": "0.27766445"
+        },
+        "n03980874": {
+            "prediction": "poncho",
+            "confidence": "0.03826463"
+        },
+        "n02869837": {
+            "prediction": "bonnet",
+            "confidence": "0.02525751"
+        },
+        "n02317335": {
+            "prediction": "starfish",
+            "confidence": "0.015156517"
+        }
+    },
+    "pizza\\103708.jpg": {
+        "n04542943": {
+            "prediction": "waffle_iron",
+            "confidence": "0.38138312"
+        },
+        "n03400231": {
+            "prediction": "frying_pan",
+            "confidence": "0.27605757"
+        },
+        "n04270147": {
+            "prediction": "spatula",
+            "confidence": "0.042017307"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.021485295"
+        },
+        "n07860988": {
+            "prediction": "dough",
+            "confidence": "0.021332137"
+        }
+    },
+    "pizza\\1038357.jpg": {
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.5953955"
+        },
+        "n04447861": {
+            "prediction": "toilet_seat",
+            "confidence": "0.03788202"
+        },
+        "n07584110": {
+            "prediction": "consomme",
+            "confidence": "0.014566969"
+        },
+        "n07932039": {
+            "prediction": "eggnog",
+            "confidence": "0.013575152"
+        },
+        "n03920288": {
+            "prediction": "Petri_dish",
+            "confidence": "0.013337542"
+        }
+    },
+    "pizza\\1040878.jpg": {
+        "n01496331": {
+            "prediction": "electric_ray",
+            "confidence": "0.6014638"
+        },
+        "n01665541": {
+            "prediction": "leatherback_turtle",
+            "confidence": "0.034130093"
+        },
+        "n01498041": {
+            "prediction": "stingray",
+            "confidence": "0.025519706"
+        },
+        "n02066245": {
+            "prediction": "grey_whale",
+            "confidence": "0.0204979"
+        },
+        "n02640242": {
+            "prediction": "sturgeon",
+            "confidence": "0.012268134"
+        }
+    },
+    "pizza\\1044524.jpg": {
+        "n03041632": {
+            "prediction": "cleaver",
+            "confidence": "0.059811555"
+        },
+        "n04270147": {
+            "prediction": "spatula",
+            "confidence": "0.05329792"
+        },
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.049299"
+        },
+        "n07880968": {
+            "prediction": "burrito",
+            "confidence": "0.042730477"
+        },
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.0421768"
+        }
+    },
+    "pizza\\1044789.jpg": {
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.31030926"
+        },
+        "n04344873": {
+            "prediction": "studio_couch",
+            "confidence": "0.112493105"
+        },
+        "n04235860": {
+            "prediction": "sleeping_bag",
+            "confidence": "0.022547023"
+        },
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.021962794"
+        },
+        "n01665541": {
+            "prediction": "leatherback_turtle",
+            "confidence": "0.015583455"
+        }
+    },
+    "pizza\\1048649.jpg": {
+        "n04192698": {
+            "prediction": "shield",
+            "confidence": "0.14521515"
+        },
+        "n04033901": {
+            "prediction": "quill",
+            "confidence": "0.102899484"
+        },
+        "n03929660": {
+            "prediction": "pick",
+            "confidence": "0.06997641"
+        },
+        "n04591157": {
+            "prediction": "Windsor_tie",
+            "confidence": "0.06371218"
+        },
+        "n03291819": {
+            "prediction": "envelope",
+            "confidence": "0.04652141"
+        }
+    },
+    "pizza\\1054420.jpg": {
+        "n04344873": {
+            "prediction": "studio_couch",
+            "confidence": "0.099397674"
+        },
+        "n04141327": {
+            "prediction": "scabbard",
+            "confidence": "0.05195198"
+        },
+        "n02808440": {
+            "prediction": "bathtub",
+            "confidence": "0.048330683"
+        },
+        "n03125729": {
+            "prediction": "cradle",
+            "confidence": "0.03920152"
+        },
+        "n03658185": {
+            "prediction": "letter_opener",
+            "confidence": "0.037385397"
+        }
+    },
+    "pizza\\1055065.jpg": {
+        "n01496331": {
+            "prediction": "electric_ray",
+            "confidence": "0.25610274"
+        },
+        "n03920288": {
+            "prediction": "Petri_dish",
+            "confidence": "0.0877448"
+        },
+        "n01665541": {
+            "prediction": "leatherback_turtle",
+            "confidence": "0.07755213"
+        },
+        "n07875152": {
+            "prediction": "potpie",
+            "confidence": "0.056568623"
+        },
+        "n07873807": {
+            "prediction": "pizza",
+            "confidence": "0.02987299"
+        }
+    }
+}

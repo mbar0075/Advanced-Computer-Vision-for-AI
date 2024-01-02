@@ -1,0 +1,442 @@
+{
+    "pizza\\1001116.jpg": {
+        "n04325704": {
+            "prediction": "stole",
+            "confidence": "0.68156"
+        },
+        "n03980874": {
+            "prediction": "poncho",
+            "confidence": "0.11990193"
+        },
+        "n02869837": {
+            "prediction": "bonnet",
+            "confidence": "0.0925213"
+        },
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.05172734"
+        },
+        "n04026417": {
+            "prediction": "purse",
+            "confidence": "0.015802072"
+        }
+    },
+    "pizza\\1008104.jpg": {
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.30523968"
+        },
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.0829311"
+        },
+        "n04209133": {
+            "prediction": "shower_cap",
+            "confidence": "0.05541818"
+        },
+        "n02808304": {
+            "prediction": "bath_towel",
+            "confidence": "0.025959007"
+        },
+        "n03642806": {
+            "prediction": "laptop",
+            "confidence": "0.024982348"
+        }
+    },
+    "pizza\\1008144.jpg": {
+        "n04325704": {
+            "prediction": "stole",
+            "confidence": "0.2261956"
+        },
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.16963886"
+        },
+        "n09193705": {
+            "prediction": "alp",
+            "confidence": "0.09910928"
+        },
+        "n03980874": {
+            "prediction": "poncho",
+            "confidence": "0.09651398"
+        },
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.049215235"
+        }
+    },
+    "pizza\\1008844.jpg": {
+        "n04118538": {
+            "prediction": "rugby_ball",
+            "confidence": "0.20199367"
+        },
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.16602178"
+        },
+        "n03775546": {
+            "prediction": "mixing_bowl",
+            "confidence": "0.09796256"
+        },
+        "n07248320": {
+            "prediction": "book_jacket",
+            "confidence": "0.07714422"
+        },
+        "n03314780": {
+            "prediction": "face_powder",
+            "confidence": "0.06623645"
+        }
+    },
+    "pizza\\1008941.jpg": {
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.1600692"
+        },
+        "n04127249": {
+            "prediction": "safety_pin",
+            "confidence": "0.07982467"
+        },
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.070187084"
+        },
+        "n04476259": {
+            "prediction": "tray",
+            "confidence": "0.038564023"
+        },
+        "n03980874": {
+            "prediction": "poncho",
+            "confidence": "0.03852337"
+        }
+    },
+    "pizza\\1011404.jpg": {
+        "n04328186": {
+            "prediction": "stopwatch",
+            "confidence": "0.31839108"
+        },
+        "n04263257": {
+            "prediction": "soup_bowl",
+            "confidence": "0.10483305"
+        },
+        "n04599235": {
+            "prediction": "wool",
+            "confidence": "0.06993031"
+        },
+        "n07579787": {
+            "prediction": "plate",
+            "confidence": "0.05339153"
+        },
+        "n04476259": {
+            "prediction": "tray",
+            "confidence": "0.044606466"
+        }
+    },
+    "pizza\\102037.jpg": {
+        "n03291819": {
+            "prediction": "envelope",
+            "confidence": "0.2013958"
+        },
+        "n03788365": {
+            "prediction": "mosquito_net",
+            "confidence": "0.1862207"
+        },
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.154257"
+        },
+        "n04204238": {
+            "prediction": "shopping_basket",
+            "confidence": "0.111276284"
+        },
+        "n03482405": {
+            "prediction": "hamper",
+            "confidence": "0.09785339"
+        }
+    },
+    "pizza\\1026922.jpg": {
+        "n03207743": {
+            "prediction": "dishrag",
+            "confidence": "0.33253953"
+        },
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.22455025"
+        },
+        "n04325704": {
+            "prediction": "stole",
+            "confidence": "0.13804251"
+        },
+        "n03980874": {
+            "prediction": "poncho",
+            "confidence": "0.055784427"
+        },
+        "n04209239": {
+            "prediction": "shower_curtain",
+            "confidence": "0.044207964"
+        }
+    },
+    "pizza\\1029698.jpg": {
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.43868682"
+        },
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.11725775"
+        },
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.081564695"
+        },
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.05629212"
+        },
+        "n04209239": {
+            "prediction": "shower_curtain",
+            "confidence": "0.042741675"
+        }
+    },
+    "pizza\\1032754.jpg": {
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.35308832"
+        },
+        "n02730930": {
+            "prediction": "apron",
+            "confidence": "0.09805049"
+        },
+        "n04136333": {
+            "prediction": "sarong",
+            "confidence": "0.089137144"
+        },
+        "n04371430": {
+            "prediction": "swimming_trunks",
+            "confidence": "0.06293726"
+        },
+        "n04209239": {
+            "prediction": "shower_curtain",
+            "confidence": "0.048755214"
+        }
+    },
+    "pizza\\1033251.jpg": {
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.74529284"
+        },
+        "n04209239": {
+            "prediction": "shower_curtain",
+            "confidence": "0.04501692"
+        },
+        "n03998194": {
+            "prediction": "prayer_rug",
+            "confidence": "0.02773954"
+        },
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.01932047"
+        },
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.015509625"
+        }
+    },
+    "pizza\\1035854.jpg": {
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.9500344"
+        },
+        "n04209239": {
+            "prediction": "shower_curtain",
+            "confidence": "0.017653028"
+        },
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.009863533"
+        },
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.004974234"
+        },
+        "n03998194": {
+            "prediction": "prayer_rug",
+            "confidence": "0.0043150135"
+        }
+    },
+    "pizza\\103708.jpg": {
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.5983255"
+        },
+        "n15075141": {
+            "prediction": "toilet_tissue",
+            "confidence": "0.039139338"
+        },
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.029581727"
+        },
+        "n04548280": {
+            "prediction": "wall_clock",
+            "confidence": "0.026817553"
+        },
+        "n03775071": {
+            "prediction": "mitten",
+            "confidence": "0.021631273"
+        }
+    },
+    "pizza\\1038357.jpg": {
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.9321876"
+        },
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.017863853"
+        },
+        "n03207743": {
+            "prediction": "dishrag",
+            "confidence": "0.004023992"
+        },
+        "n03733281": {
+            "prediction": "maze",
+            "confidence": "0.0039830324"
+        },
+        "n03980874": {
+            "prediction": "poncho",
+            "confidence": "0.003941988"
+        }
+    },
+    "pizza\\1040878.jpg": {
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.3184889"
+        },
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.17499751"
+        },
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.08494459"
+        },
+        "n03709823": {
+            "prediction": "mailbag",
+            "confidence": "0.0659958"
+        },
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.038876563"
+        }
+    },
+    "pizza\\1044524.jpg": {
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.24407847"
+        },
+        "n04371430": {
+            "prediction": "swimming_trunks",
+            "confidence": "0.09081307"
+        },
+        "n04548280": {
+            "prediction": "wall_clock",
+            "confidence": "0.0786676"
+        },
+        "n04258138": {
+            "prediction": "solar_dish",
+            "confidence": "0.06853244"
+        },
+        "n03642806": {
+            "prediction": "laptop",
+            "confidence": "0.063960545"
+        }
+    },
+    "pizza\\1044789.jpg": {
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.7076929"
+        },
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.27482986"
+        },
+        "n03291819": {
+            "prediction": "envelope",
+            "confidence": "0.005363769"
+        },
+        "n04525038": {
+            "prediction": "velvet",
+            "confidence": "0.0017513037"
+        },
+        "n03642806": {
+            "prediction": "laptop",
+            "confidence": "0.0015442838"
+        }
+    },
+    "pizza\\1048649.jpg": {
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.13844085"
+        },
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.09415122"
+        },
+        "n02869837": {
+            "prediction": "bonnet",
+            "confidence": "0.08624801"
+        },
+        "n04548362": {
+            "prediction": "wallet",
+            "confidence": "0.07705489"
+        },
+        "n04507155": {
+            "prediction": "umbrella",
+            "confidence": "0.071975686"
+        }
+    },
+    "pizza\\1054420.jpg": {
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.9559067"
+        },
+        "n03871628": {
+            "prediction": "packet",
+            "confidence": "0.007743693"
+        },
+        "n02971356": {
+            "prediction": "carton",
+            "confidence": "0.006745878"
+        },
+        "n03998194": {
+            "prediction": "prayer_rug",
+            "confidence": "0.004805289"
+        },
+        "n04493381": {
+            "prediction": "tub",
+            "confidence": "0.0033921471"
+        }
+    },
+    "pizza\\1055065.jpg": {
+        "n03485794": {
+            "prediction": "handkerchief",
+            "confidence": "0.42029026"
+        },
+        "n02730930": {
+            "prediction": "apron",
+            "confidence": "0.17030858"
+        },
+        "n04033995": {
+            "prediction": "quilt",
+            "confidence": "0.12688115"
+        },
+        "n03598930": {
+            "prediction": "jigsaw_puzzle",
+            "confidence": "0.040249955"
+        },
+        "n02834397": {
+            "prediction": "bib",
+            "confidence": "0.03733235"
+        }
+    }
+}
