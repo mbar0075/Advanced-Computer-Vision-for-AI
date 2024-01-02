@@ -91,7 +91,7 @@ This research explored advanced computer vision techniques, including transfer l
 </p>
 
 ### Learning Rate & Epochs
-Smaller learning rates, particularly 0.001, demonstrated superior initial performance with the Cats and Dogs dataset, resulting in higher validation accuracy and lower loss. Extremes (0.1 and 0.0001) led to poorer outcomes. Increasing the number of epochs notably improved model convergence and validation accuracy.
+Smaller learning rates, particularly 0.001, demonstrated superior initial performance with the `Cats and Dogs` dataset, resulting in higher validation accuracy and lower loss. Extremes (0.1 and 0.0001) led to poorer outcomes. Increasing the number of epochs notably improved model convergence and validation accuracy.
 
 <p align='center'>
 <table align="center">
