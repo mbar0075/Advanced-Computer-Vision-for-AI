@@ -1,4 +1,7 @@
 # Advanced Computer Vision for AI
+
+<p align="justify">
+
 The research delved into multiple facets of advanced computer vision, exploring **activation functions**, **CNN refinement** for CIFAR10, **transfer learning**, **fine-tuning**, and **object detection**. In assessing activation functions, ReLU emerged as dominant, while optimal learning rates and network complexity significantly influenced convergence. The adapted CNN architecture for CIFAR10 remarkably achieved 82% across accuracy, precision, recall, and F1-Score, efficiently leveraging 531,818 parameters. Notable strategies included expanded layers, diverse activation functions, and optimization techniques. Transfer learning and fine-tuning highlighted the importance of learning rates and epochs, with AdaMax and Adam optimizers excelling. Model architecture evaluation favored MobileNetV2 for image classification. Object detection comparisons identified YOLOv8 as the most proficient, excelling in precision and recall.
 
 ## Task 1: Understanding Activation Functions
@@ -18,7 +21,7 @@ This research delves into the exploration of activation functions within the neu
 The study focused on refining TensorFlow's CNN tutorial for improved performance on the `CIFAR10` dataset. CIFAR10 comprises 60,000 color images categorized into `10` classes, each containing 6,000 images. This dataset is split into 50,000 training images and 10,000 testing images. Each image is a 32x32 pixel array, making it a challenging yet standard benchmark in the field of computer vision due to its diverse classes and low resolution.
 
 <p align='center'>
-  <img src="Individual Assignment/Assignment 2/data.png" alt="CIFAR10 Dataset">
+  <img src="Individual Assignment/Assignment 2/data.png" alt="CIFAR10 Dataset" width="70%">
 </p>
 
 The adapted CNN architecture achieved remarkable enhancements, attaining an outstanding **82%** `Accuracy`, `Precision`, `Recall`, and `F1-Score` on the CIFAR10 test set. These improvements were made while judiciously utilizing 531,818 model parameters, showcasing the efficiency and optimization achieved through the adapted architecture.
@@ -70,11 +73,11 @@ The architectural enhancements focused on expanding convolutional and dense laye
 <p align='center'>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="Individual Assignment/Assignment 2/best_cnn_model.png" alt="Validation Graphs"  width="100%" height="300" />
+    <td align="center"  width="50%">
+      <img src="Individual Assignment/Assignment 2/best_cnn_model.png" alt="Validation Graphs"/>
     </td>
-    <td align="center">
-      <img src="Individual Assignment/Assignment 2/confusion_matrix.png" alt="Confusion Matrix"  width="100%" height="300" />
+    <td align="center" width="50%">
+      <img src="Individual Assignment/Assignment 2/confusion_matrix.png" alt="Confusion Matrix"/>
     </td>
   </tr>
 </table>
@@ -87,7 +90,7 @@ Observations from the enhanced model revealed notable outcomes: training and val
 This research explored advanced computer vision techniques, including transfer learning, fine-tuning, learning rates, optimizers, and model architectures, aiming to enhance image classification. The study aimed to identify crucial elements in the classification process and assess the combined impact of these techniques on overall performance.
 
 <p align='center'>
-  <img src="Individual Assignment/Assignment 3/data.png" alt="Cats and Dog Dataset">
+  <img src="Individual Assignment/Assignment 3/data.png" alt="Cats and Dog Dataset" width="70%">
 </p>
 
 ### Learning Rate & Epochs
@@ -112,11 +115,11 @@ AdaMax and Adam optimizers showcased superior performance due to their adaptive 
 <p align='center'>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="Individual Assignment/Assignment 3/plots/Validation Accuracy and Loss for different optimizers.png" alt="Validation Graphs Optimizers"  width="100%" height="300" />
+    <td align="center" width="50%">
+      <img src="Individual Assignment/Assignment 3/plots/Validation Accuracy and Loss for different optimizers.png" alt="Validation Graphs Optimizers"/>
     </td>
-    <td align="center">
-      <img src="Individual Assignment/Assignment 3/plots/Adamax.png" alt="Validation Graphs Epochs"  width="100%" height="300"/>
+    <td align="center" width="36%">
+      <img src="Individual Assignment/Assignment 3/plots/Adamax.png" alt="Validation Graphs Epochs"/>
     </td>
   </tr>
 </table>
@@ -298,11 +301,11 @@ RetinaNet (2017) addresses class imbalance and localization with its Focal Loss,
 <p align='center'>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/RetinaNet/inference_images/000001_jpg.rf.28a0a9ec43243edc5b2179d657363422.jpg.jpg" alt="Image 1"  width="100%" height="300" />
+    <td align="center" width="63%">
+      <img src="Group Project Assignment/Part_3_Results/RetinaNet/inference_images/000001_jpg.rf.28a0a9ec43243edc5b2179d657363422.jpg.jpg" alt="Image 1" />
     </td>
-    <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/RetinaNet/inference_images/00151_jpg.rf.575d4c0db587e5567e95e15f32fb479d.jpg.jpg" alt="Image 2"  width="100%" height="300" />
+    <td align="center" width="50%">
+      <img src="Group Project Assignment/Part_3_Results/RetinaNet/inference_images/00151_jpg.rf.575d4c0db587e5567e95e15f32fb479d.jpg.jpg" alt="Image 2"/>
     </td>
   </tr>
 </table>
@@ -315,11 +318,11 @@ YOLOv5 (2020) by Ultralytics improves YOLO's legacy with a more streamlined arch
 <p align='center'>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/YOLOv5/results/detect/exp/00061_jpg.rf.d91f39fda40d6ef026acb7a15751f913.jpg" alt="Image 1"  width="100%" height="300" />
+    <td align="center" width="38%">
+      <img src="Group Project Assignment/Part_3_Results/YOLOv5/results/detect/exp/00061_jpg.rf.d91f39fda40d6ef026acb7a15751f913.jpg" alt="Image 1"/>
     </td>
-    <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/YOLOv5/results/detect/exp/01167_jpg.rf.913f261297783a8efd10ca65fd78a429.jpg" alt="Image 2"  width="100%" height="300" />
+    <td align="center" width="50%">
+      <img src="Group Project Assignment/Part_3_Results/YOLOv5/results/detect/exp/01167_jpg.rf.913f261297783a8efd10ca65fd78a429.jpg" alt="Image 2"/>
     </td>
   </tr>
 </table>
@@ -339,10 +342,10 @@ DETR (2020) from Facebook AI Research replaces traditional anchor-based methods 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/DETR/groundTurth.png" alt="Ground Truth"  width="100%" height="300" />
+      <img src="Group Project Assignment/Part_3_Results/DETR/groundTurth.png" alt="Ground Truth"  width="100%"/>
     </td>
     <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/DETR/Prediction.png" alt="DETR Prediction"  width="100%" height="300" />
+      <img src="Group Project Assignment/Part_3_Results/DETR/Prediction.png" alt="DETR Prediction"  width="100%"/>
     </td>
   </tr>
 </table>
@@ -359,11 +362,11 @@ The evaluation compared YOLOv5, YOLOv8, RetinaNet, and DETR models. YOLOv8 showc
   <tr>
     <td align="center">
       <img src="Group Project Assignment/Part_3_Results/RetinaNet/RetinaNet MAP.png" alt="RetinaNet MAP"  width="100%" />
-      RetinaNet MAP Graph
+      <strong>RetinaNet MAP Graph</strong>
     </td>
     <td align="center">
       <img src="Group Project Assignment/Part_3_Results/RetinaNet/RetinaNetPR.png" alt="RetinaNet PR"  width="100%"/>
-      RetinaNet PR Curve 
+      <strong>RetinaNet PR Curve</strong>
     </td>
   </tr>
 </table>
@@ -373,12 +376,12 @@ The evaluation compared YOLOv5, YOLOv8, RetinaNet, and DETR models. YOLOv8 showc
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/YOLOv5/results/val/yolov5s_results2 (testing)/confusion_matrix.png" alt="YOLOv5 CM"  width="100%" height="300" />
-      YOLOv5 Confusion Matrix
+      <img src="Group Project Assignment/Part_3_Results/YOLOv5/results/val/yolov5s_results2 (testing)/confusion_matrix.png" alt="YOLOv5 CM"  width="100%"/>
+      <strong>YOLOv5 Confusion Matrix</strong>
     </td>
     <td align="center">
-      <img src="Group Project Assignment/Part_3_Results/YOLOv8/detect/validation/confusion_matrix_normalized.png" alt="YOLOv8 CM"  width="100%" height="300" />
-        YOLOv8 Confusion Matrix
+      <img src="Group Project Assignment/Part_3_Results/YOLOv8/detect/validation/confusion_matrix_normalized.png" alt="YOLOv8 CM"  width="100%"/>
+        <strong>YOLOv8 Confusion Matrix</strong>
     </td>
   </tr>
 </table>
@@ -396,6 +399,8 @@ labels/, Jun. 2019.
 [2] Project_SHS, Pizza images with topping labels,
 https://www.kaggle.com/datasets/projectshs/pizza-classification-data/, Dec.
 2022.
+
+</p>
 
 <!-- The dataset which was used can be found through the following link: https://www.kaggle.com/datasets/michaelbryantds/pizza-images-with-topping-labels/
 
