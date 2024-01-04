@@ -6,6 +6,9 @@
 **Isaac Muscat** <br>
 
 ## Introduction
+
+<p align="justify">
+
 In this project, object classification models like **ResNet50**, **VGG16**, and **MobileNet** were employed to classify images into two categories: those containing pizza and those that didn't. Subsequently, an annotated dataset encompassing diverse pizza types and ingredients was created using **RoboFlow**. This dataset was then used to train object-detection models—**YOLOv8**, **YOLOv5**, **RetinaNet**—aimed at identifying pizzas and their ingredients. Loss and accuracy graphs were generated for evaluation. Although a basic implementation of **DETR** was explored, it was not included in the final assessment. The culmination of these techniques led to the construction of a comprehensive pizza analysis system.
 <br><br>
 
@@ -151,11 +154,11 @@ RetinaNet (2017) addresses class imbalance and localization with its Focal Loss,
 <p align='center'>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="Part_3_Results/RetinaNet/inference_images/000001_jpg.rf.28a0a9ec43243edc5b2179d657363422.jpg.jpg" alt="Image 1"  width="100%" height="300" />
+    <td align="center" width="63%">
+      <img src="Part_3_Results/RetinaNet/inference_images/000001_jpg.rf.28a0a9ec43243edc5b2179d657363422.jpg.jpg" alt="Image 1"/>
     </td>
-    <td align="center">
-      <img src="Part_3_Results/RetinaNet/inference_images/00151_jpg.rf.575d4c0db587e5567e95e15f32fb479d.jpg.jpg" alt="Image 2"  width="100%" height="300" />
+    <td align="center" width="50%">
+      <img src="Part_3_Results/RetinaNet/inference_images/00151_jpg.rf.575d4c0db587e5567e95e15f32fb479d.jpg.jpg" alt="Image 2"/>
     </td>
   </tr>
 </table>
@@ -166,17 +169,18 @@ RetinaNet (2017) addresses class imbalance and localization with its Focal Loss,
 YOLOv5 (2020) by Ultralytics improves YOLO's legacy with a more streamlined architecture, offering customization and multi-platform deployment. Variants like YOLOv5x and YOLOv5s cater to different computational requirements, focusing on simplicity, efficiency, and performance.
 
 <p align='center'>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="Part_3_Results/YOLOv5/results/detect/exp/00061_jpg.rf.d91f39fda40d6ef026acb7a15751f913.jpg" alt="Image 1"  width="100%" height="300" />
-    </td>
-    <td align="center">
-      <img src="Part_3_Results/YOLOv5/results/detect/exp/01167_jpg.rf.913f261297783a8efd10ca65fd78a429.jpg" alt="Image 2"  width="100%" height="300" />
-    </td>
-  </tr>
-</table>
+  <table align="center" style="margin: 0 auto;">
+    <tr>
+      <td align="center" width="38%">
+        <img src="Part_3_Results/YOLOv5/results/detect/exp/00061_jpg.rf.d91f39fda40d6ef026acb7a15751f913.jpg" alt="Image 1"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="Part_3_Results/YOLOv5/results/detect/exp/01167_jpg.rf.913f261297783a8efd10ca65fd78a429.jpg" alt="Image 2"/>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ### YOLOv8
 YOLOv8 (2023) continues advancements, utilizing CSPDarknet53 for efficient image processing while maintaining high accuracy. Variants like YOLOv8-CSP and YOLOv8-Darknet provide options for different computational resources and use cases.
@@ -192,10 +196,10 @@ DETR (2020) from Facebook AI Research replaces traditional anchor-based methods 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Part_3_Results/DETR/groundTurth.png" alt="Ground Truth"  width="100%" height="300" />
+      <img src="Part_3_Results/DETR/groundTurth.png" alt="Ground Truth"  width="100%" />
     </td>
     <td align="center">
-      <img src="Part_3_Results/DETR/Prediction.png" alt="DETR Prediction"  width="100%" height="300" />
+      <img src="Part_3_Results/DETR/Prediction.png" alt="DETR Prediction"  width="100%" />
     </td>
   </tr>
 </table>
@@ -212,11 +216,11 @@ The evaluation compared YOLOv5, YOLOv8, RetinaNet, and DETR models. YOLOv8 showc
   <tr>
     <td align="center">
       <img src="Part_3_Results/RetinaNet/RetinaNet MAP.png" alt="RetinaNet MAP"  width="100%" />
-      RetinaNet MAP Graph
+      <strong>RetinaNet MAP Graph</strong>
     </td>
     <td align="center">
       <img src="Part_3_Results/RetinaNet/RetinaNetPR.png" alt="RetinaNet PR"  width="100%"/>
-      RetinaNet PR Curve 
+      <strong>RetinaNet PR Curve</strong> 
     </td>
   </tr>
 </table>
@@ -226,12 +230,12 @@ The evaluation compared YOLOv5, YOLOv8, RetinaNet, and DETR models. YOLOv8 showc
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Part_3_Results/YOLOv5/results/val/yolov5s_results2 (testing)/confusion_matrix.png" alt="YOLOv5 CM"  width="100%" height="300" />
-      YOLOv5 Confusion Matrix
+      <img src="Part_3_Results/YOLOv5/results/val/yolov5s_results2 (testing)/confusion_matrix.png" alt="YOLOv5 CM"  width="100%"/>
+      <strong>YOLOv5 Confusion Matrix</strong>
     </td>
     <td align="center">
-      <img src="Part_3_Results/YOLOv8/detect/validation/confusion_matrix_normalized.png" alt="YOLOv8 CM"  width="100%" height="300" />
-        YOLOv8 Confusion Matrix
+      <img src="Part_3_Results/YOLOv8/detect/validation/confusion_matrix_normalized.png" alt="YOLOv8 CM"  width="100%"/>
+        <strong>YOLOv8 Confusion Matrix</strong>
     </td>
   </tr>
 </table>
@@ -249,6 +253,8 @@ labels/, Jun. 2019.
 [2] Project_SHS, Pizza images with topping labels,
 https://www.kaggle.com/datasets/projectshs/pizza-classification-data/, Dec.
 2022.
+
+</p>
 
 <!-- The dataset which was used can be found through the following link: https://www.kaggle.com/datasets/michaelbryantds/pizza-images-with-topping-labels/
 
