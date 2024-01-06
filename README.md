@@ -86,28 +86,28 @@ Observations from the enhanced model revealed notable outcomes: training and val
 
 ### **CIFAR DecaLuminarNet:** A Further Enhanced CNN Architecture for CIFAR10
 
-The proposed architecture was further refined to achieve a more efficient model. The adapted architecture, named `CIFAR DecaLuminarNet`, achieved an impressive **86%** `Accuracy`, `Precision`, `Recall`, and `F1-Score` on the CIFAR10 test set, utilizing **8,966,986** parameters. This model was trained for **150** epochs with a batch size of **512**. The `DecaLuminarNet` conveys deep and illuminating insights into the model's architecture, with `Deca` representing the 10 classes in CIFAR10 and `LuminarNet` signifying the model's illuminating performance over the first proposed architecture.
+The proposed architecture was further refined to achieve a more efficient model. The adapted architecture, named `CIFAR DecaLuminarNet`, achieved an impressive **87%** `Accuracy`, `Precision`, `Recall`, and `F1-Score` on the CIFAR10 test set, utilizing **9,136,778** parameters. This model was trained for **150** epochs with a batch size of **512**. The `DecaLuminarNet` conveys deep and illuminating insights into the model's architecture, with `Deca` representing the 10 classes in CIFAR10 and `LuminarNet` signifying the model's illuminating performance over the first proposed architecture.
 <p align="center">
 
 | No.   | Layer Type           | Details                |
 |-------|----------------------|------------------------|
-| 1     | `Conv2D`             | (3, 3), 64 filters, `ReLU`, `padding='same'` |
+| 1     | `Conv2D`             | (3, 3), 64 filters, `ELU`, `padding='same'` |
 | 2     | `BatchNormalization` | -                      |
-| 3     | `Conv2D`             | (3, 3), 64 filters, `ReLU`, `padding='same'` |
+| 3     | `Conv2D`             | (3, 3), 64 filters, `ELU`, `padding='same'` |
 | 4     | `BatchNormalization` | -                      |
 | 5     | `MaxPooling2D`       | (2, 2)                 |
 | 6     | `Dropout`            | 25%                    |
-| 7     | `Conv2D`             | (3, 3), 128 filters, `ReLU`, `padding='same'` |
+| 7     | `Conv2D`             | (3, 3), 128 filters, `ELU`, `padding='same'` |
 | 8     | `BatchNormalization` | -                      |
-| 9     | `Conv2D`             | (3, 3), 128 filters, `ReLU`, `padding='same'` |
+| 9     | `Conv2D`             | (3, 3), 128 filters, `ELU`, `padding='same'` |
 | 10    | `BatchNormalization` | -                      |
 | 11    | `MaxPooling2D`       | (2, 2)                 |
 | 12    | `Dropout`            | 25%                    |
-| 13    | `Conv2D`             | (3, 3), 256 filters, `ReLU`, `padding='same'` |
+| 13    | `Conv2D`             | (3, 3), 256 filters, `ELU`, `padding='same'` |
 | 14    | `BatchNormalization` | -                      |
-| 15    | `Conv2D`             | (3, 3), 256 filters, `ReLU`, `padding='same'` |
+| 15    | `Conv2D`             | (3, 3), 256 filters, `ELU`, `padding='same'` |
 | 16    | `BatchNormalization` | -                      |
-| 17    | `Conv2D`             | (3, 3), 256 filters, `ReLU`, `padding='same'` |
+| 17    | `Conv2D`             | (3, 3), 256 filters, `ELU`, `padding='same'` |
 | 18    | `BatchNormalization` | -                      |
 | 19    | `MaxPooling2D`       | (2, 2)                 |
 | 20    | `Dropout`            | 25%                    |
@@ -118,11 +118,20 @@ The proposed architecture was further refined to achieve a more efficient model.
 | 25    | `Dense`              | 512 neurons, `ReLU`    |
 | 26    | `BatchNormalization` | -                      |
 | 27    | `Dropout`            | 50%                    |
-| 28    | `Dense`              | 10 neurons, `Softmax`  |
+| 28    | `Dense`              | 256 neurons, `ReLU`    |
+| 29    | `BatchNormalization` | -                      |
+| 30    | `Dropout`            | 50%                    |
+| 31    | `Dense`              | 128 neurons, `ReLU`    |
+| 32    | `BatchNormalization` | -                      |
+| 33    | `Dropout`            | 50%                    |
+| 34    | `Dense`              | 64 neurons, `ReLU`     |
+| 35    | `BatchNormalization` | -                      |
+| 36    | `Dropout`            | 50%                    |
+| 37    | `Dense`              | 10 neurons, `Softmax`  |
 
 </p>
 
-The refined architecture focused on expanding convolutional layers, incorporating renowned optimal activation functions like softmax and ReLU, and employing optimization techniques such as the Adam optimizer with gradient clipping. Additional strategies included integrating dropout and batch normalization layers, utilizing a larger batch size and epochs, and incorporating an early stopping and reduce learning rate on plateau callbacks. 
+The refined architecture focused on expanding convolutional layers, incorporating renowned optimal activation functions like softmax and ELU, and employing optimization techniques such as the Adam optimizer with gradient clipping. Additional strategies included integrating dropout and batch normalization layers, utilizing a larger batch size and epochs, and incorporating an early stopping and reduce learning rate on plateau callbacks. 
 
 <p align='center'>
 <table align="center">
