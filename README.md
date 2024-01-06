@@ -13,7 +13,7 @@ This research delves into the exploration of activation functions within the neu
 </p>
 
 <p align='center'>
-  <img src="Individual Assignment/Assignment 1/evaluation_graph.png" alt="Evaluation Graph">
+  <img src="Individual Assignment/Assignment 1/evaluation_graph.png" width="90%" alt="Evaluation Graph">
 </p>
 
 ## Task 2: Understanding Convolutional Neural Networks
@@ -26,27 +26,26 @@ The study focused on refining TensorFlow's CNN tutorial for improved performance
 
 The adapted CNN architecture achieved remarkable enhancements, attaining an outstanding **82%** `Accuracy`, `Precision`, `Recall`, and `F1-Score` on the CIFAR10 test set. These improvements were made while judiciously utilizing 531,818 model parameters, showcasing the efficiency and optimization achieved through the adapted architecture.
 
-
-### Enhanced CNN Architecture for CIFAR10 Dataset
+### Proposed Enhanced CNN Architecture for the CIFAR10 Dataset
 <p align="center">
 
 | No.   | Layer Type           | Details                |
 |-------|----------------------|------------------------|
-| 1     | `Conv2D`             | (3, 3), 32 filters     |
+| 1     | `Conv2D`             | (3, 3), 32 filters, `ELU` |
 | 2     | `BatchNormalization` | -                      |
-| 3     | `Conv2D`             | (3, 3), 32 filters     |
+| 3     | `Conv2D`             | (3, 3), 32 filters, `ELU` |
 | 4     | `BatchNormalization` | -                      |
 | 5     | `MaxPooling2D`       | (2, 2)                 |
 | 6     | `Dropout`            | 25%                    |
-| 7     | `Conv2D`             | (3, 3), 64 filters     |
+| 7     | `Conv2D`             | (3, 3), 64 filters, `ELU` |
 | 8     | `BatchNormalization` | -                      |
-| 9     | `Conv2D`             | (3, 3), 64 filters     |
+| 9     | `Conv2D`             | (3, 3), 64 filters, `ELU` |
 | 10    | `BatchNormalization` | -                      |
 | 11    | `MaxPooling2D`       | (2, 2)                 |
 | 12    | `Dropout`            | 25%                    |
-| 13    | `Conv2D`             | (3, 3), 128 filters    |
+| 13    | `Conv2D`             | (3, 3), 128 filters, `ELU` |
 | 14    | `BatchNormalization` | -                      |
-| 15    | `Conv2D`             | (3, 3), 128 filters    |
+| 15    | `Conv2D`             | (3, 3), 128 filters, `ELU` |
 | 16    | `BatchNormalization` | -                      |
 | 17    | `Dropout`            | 25%                    |
 | 18    | `Flatten`            | -                      |
@@ -84,6 +83,61 @@ The architectural enhancements focused on expanding convolutional and dense laye
 </p>
 
 Observations from the enhanced model revealed notable outcomes: training and validation curves displayed gradual convergence, indicating minimized overfitting. However, challenges in accurately classifying specific classes, notably `cat` and `dog`, were identified from the confusion matrix. Despite this, a distinct diagonal line in the matrix highlighted the model's generally accurate classification across most classes.
+
+### **CIFAR DecaLuminarNet:** A Further Enhanced CNN Architecture for CIFAR10
+
+The proposed architecture was further refined to achieve a more efficient model. The adapted architecture, named `CIFAR DecaLuminarNet`, achieved an impressive **86%** `Accuracy`, `Precision`, `Recall`, and `F1-Score` on the CIFAR10 test set, utilizing **8,966,986** parameters. This model was trained for **150** epochs with a batch size of **512**. The `DecaLuminarNet` conveys deep and illuminating insights into the model's architecture, with `Deca` representing the 10 classes in CIFAR10 and `LuminarNet` signifying the model's illuminating performance over the first proposed architecture.
+<p align="center">
+
+| No.   | Layer Type           | Details                |
+|-------|----------------------|------------------------|
+| 1     | `Conv2D`             | (3, 3), 64 filters, `ReLU`, `padding='same'` |
+| 2     | `BatchNormalization` | -                      |
+| 3     | `Conv2D`             | (3, 3), 64 filters, `ReLU`, `padding='same'` |
+| 4     | `BatchNormalization` | -                      |
+| 5     | `MaxPooling2D`       | (2, 2)                 |
+| 6     | `Dropout`            | 25%                    |
+| 7     | `Conv2D`             | (3, 3), 128 filters, `ReLU`, `padding='same'` |
+| 8     | `BatchNormalization` | -                      |
+| 9     | `Conv2D`             | (3, 3), 128 filters, `ReLU`, `padding='same'` |
+| 10    | `BatchNormalization` | -                      |
+| 11    | `MaxPooling2D`       | (2, 2)                 |
+| 12    | `Dropout`            | 25%                    |
+| 13    | `Conv2D`             | (3, 3), 256 filters, `ReLU`, `padding='same'` |
+| 14    | `BatchNormalization` | -                      |
+| 15    | `Conv2D`             | (3, 3), 256 filters, `ReLU`, `padding='same'` |
+| 16    | `BatchNormalization` | -                      |
+| 17    | `Conv2D`             | (3, 3), 256 filters, `ReLU`, `padding='same'` |
+| 18    | `BatchNormalization` | -                      |
+| 19    | `MaxPooling2D`       | (2, 2)                 |
+| 20    | `Dropout`            | 25%                    |
+| 21    | `Flatten`            | -                      |
+| 22    | `Dense`              | 512 neurons, `ReLU`    |
+| 23    | `BatchNormalization` | -                      |
+| 24    | `Dropout`            | 50%                    |
+| 25    | `Dense`              | 512 neurons, `ReLU`    |
+| 26    | `BatchNormalization` | -                      |
+| 27    | `Dropout`            | 50%                    |
+| 28    | `Dense`              | 10 neurons, `Softmax`  |
+
+</p>
+
+The refined architecture focused on expanding convolutional layers, incorporating renowned optimal activation functions like softmax and ReLU, and employing optimization techniques such as the Adam optimizer with gradient clipping. Additional strategies included integrating dropout and batch normalization layers, utilizing a larger batch size and epochs, and incorporating an early stopping and reduce learning rate on plateau callbacks. 
+
+<p align='center'>
+<table align="center">
+  <tr>
+    <td align="center" width="52%">
+      <img src="Individual Assignment/Assignment 2/cifar_decaluminar_net_model.png" alt="Validation Graphs"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="Individual Assignment/Assignment 2/cifar_decaluminar_net_confusion_matrix.png" alt="Confusion Matrix"/>
+    </td>
+  </tr>
+</table>
+</p>
+
+Observations from the enhanced model revealed notable outcomes: training and validation curves displayed gradual convergence, indicating minimized overfitting. However, challenges in accurately classifying specific classes, notably `cat` and `dog` persisted. Despite this, a distinct diagonal line in the matrix highlighted the model's generally accurate classification across most classes.
 
 ## Task 3: Transfer Learning & Fine-Tuning
 
@@ -129,7 +183,7 @@ AdaMax and Adam optimizers showcased superior performance due to their adaptive 
 Various model architectures were evaluated for image classification. MobileNetV2 displayed strong initial validation accuracy (Val Acc) of **0.9678** and excelled in fine-tuning with a Val Acc of **0.9913**, achieving the highest Test Acc of **0.9948**. ResNet50 and EfficientNetB0 emerged as noteworthy competitors, showcasing high accuracy and low loss, while InceptionV3 displayed the lowest validation loss.
 
 <p align='center'>
-  <img src="Individual Assignment/Assignment 3/plots/Model Architecture Table.png" alt="Model Architecture Table">
+  <img src="Individual Assignment/Assignment 3/plots/Model Architecture Table.png" width="80%" alt="Model Architecture Table">
 </p>
 
 1. **Static Params:** **Loss** = Cross Entropy, **LR** = 0.001, **Initial Epochs** = 10, **Fine-Tune Epochs** = 10, **Base Model** = MobileNetV2
