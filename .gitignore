@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 
 cifar_decaluminar_net_model.h5
+freezanet.h5
